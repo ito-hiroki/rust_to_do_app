@@ -1,5 +1,5 @@
 [package]
-name = "to_do_app"
+name = "rust_to_do_app"
 version = "0.1.0"
 edition = "2018"
 
